@@ -1,4 +1,4 @@
-Sales Trend Analysis of Kitchenware shop.
+# Sales Trend Analysis of a Kitchenware Shop
 
 -Collected sales and purchases data of a kitchenware shop located in Delhi
 
