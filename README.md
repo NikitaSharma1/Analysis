@@ -1,4 +1,4 @@
-Sales Trend Analysis of Kitchenware shop
+#Sales Trend Analysis of Kitchenware shop
 -Collected sales and purchases data of a kitchenware shop located in Delhi
 - Performed Data Cleaning and Analysis of data
 - Presented the insights and recommendation to maximise profits
